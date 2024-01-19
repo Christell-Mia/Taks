@@ -137,3 +137,9 @@ body {
 .category .content h1 {
     font-size: 1.5rem;
 }
+
+.category .content p{
+    color: #2e2e2e;
+    font-size: 0.8rem;
+    opacity: 0.6;
+}
